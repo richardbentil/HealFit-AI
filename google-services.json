@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "838933123235",
+    "project_id": "healthfitai",
+    "storage_bucket": "healthfitai.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838933123235:android:4733777a691ecb7df5ef16",
+        "android_client_info": {
+          "package_name": "com.anonymous.HealthFitAi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "838933123235-hpjc4qgveetgrkgqjep8jvgg60dbjnon.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuhu5EwLcNf16McyKblQofcDR40QSJMGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "838933123235-hpjc4qgveetgrkgqjep8jvgg60dbjnon.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
